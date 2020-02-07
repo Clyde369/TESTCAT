@@ -1,0 +1,137 @@
+
+body {
+  background-color: #3c4245;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  color: white;
+}
+
+span {
+  list-style-type: none;
+  padding: 25px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+p {
+  list-style-type: none;
+  padding-left: 25px;
+  color: white;
+
+}
+
+
+/* IPC */
+.IPC-span {
+  text-align: center;
+}
+
+/* containers */
+
+.heading-topic {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* system tech w/containers */
+
+.section-one-container {
+  color: white;
+  padding-left: 35px;
+  padding-bottom: 20px;
+}
+
+.section-one-content {
+  color: white;
+  padding-left: 35px;
+  display: inline-block;
+}
+
+
+.hardware-headings {
+  padding-top: 15px;
+  color: white;
+}
+
+.hardware-mid {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.storage-container {
+  padding-left: 15px;
+}
+
+.output-devices-container {
+  padding-left: 15px;
+}
+
+.devices-container {
+  padding: 15px;
+}
+
+.dedicated-devices-container {
+  padding: 15px;
+}
+
+.concepts-container {
+  padding: 15px;
+}
+
+.hardware-container {
+  margin: 100px;
+}
+
+/* processing-container */
+.processing-container {
+  padding-left: 15px;
+}
+
+
+
+
+
+/* CLASSES */
+.main-container {
+  background-color: #3c4245;
+  color: white;
+  text-align: center;
+}
+
+.col-md-12 {
+  display: block;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #3c4245;
+}
+
+
+      /* NAVBAR */
+
+
+      /* NAVBAR */
+
+
+/* CLASSES */
+
+
+.js-button
+{
+  margin-bottom: 40px;
+}
