@@ -24,12 +24,15 @@ p {
   list-style-type: none;
   padding-left: 25px;
   color: white;
+  font-size: 1.3rem;
 
 }
 
-h2 {
-  padding-left: 50px;
-  padding-top: 10px;
+
+
+h1{
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 li {
@@ -62,21 +65,28 @@ li {
   padding-bottom: 20px;
 }
 
-.section-one-content {
+.PortablePC-container {
+  color: white;
+  padding-left: 35px;
+  display: inline-block;
+}
+
+.Users-container {
   color: white;
   padding-left: 35px;
   display: inline-block;
 }
 
 
-.hardware-headings {
-  padding-top: 15px;
+.Convergence-container {
+  /* text-align: center; */
+  text-decoration: underline;
   color: white;
 }
 
-.hardware-mid {
-  text-align: center;
-  padding-top: 50px;
+.ContentContainer {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .storage-container {
